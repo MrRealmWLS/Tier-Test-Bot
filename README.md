@@ -288,13 +288,6 @@ Built with:
 - [discord.py](https://github.com/Rapptz/discord.py) - Discord API wrapper
 - [aiosqlite](https://github.com/omnilib/aiosqlite) - Async SQLite
 
-## 📧 Support
-
-For issues, questions, or suggestions:
-- Open an [Issue](https://github.com/yourusername/tier-test-bot/issues)
-- Check [Troubleshooting](#troubleshooting) section
-- Review [Configuration Guide](#-configuration-guide)
-
 ---
 
 **Made with ❤️ for competitive gaming communities**
