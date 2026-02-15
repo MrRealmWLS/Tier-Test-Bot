@@ -1,0 +1,61 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "database": "tiers.db",
+  "bot_status": "Aurora Tier Test",
+  "emojis": {
+    "test_passed": "<:TestPassed:1408141272644063252>",
+    "leaderboard": "<:Leaderboard:1408141275601043548>",
+    "tier_entry": "<:FullStop1:1408141269946994869>"
+  },
+  "gamemodes": [
+    {
+      "name": "Bedfight",
+      "value": "bedfight"
+    },
+    {
+      "name": "Sumo",
+      "value": "sumo"
+    },
+    {
+      "name": "Boxing",
+      "value": "boxing"
+    },
+    {
+      "name": "Bedwars",
+      "value": "bedwars"
+    },
+    {
+      "name": "Top Fight",
+      "value": "top fight"
+    },
+    {
+      "name": "Side Rush",
+      "value": "side rush"
+    },
+    {
+      "name": "Fireball Fight",
+      "value": "fireball fight"
+    }
+  ],
+  "tiers": [
+    "S+",
+    "S",
+    "A+",
+    "A",
+    "B+",
+    "B",
+    "B-",
+    "C+",
+    "C",
+    "C-",
+    "D+",
+    "D",
+    "D-",
+    "F+",
+    "F",
+    "F-"
+  ],
+  "colors": {
+    "embed": "0xFF1B00"
+  }
+}
