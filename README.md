@@ -39,7 +39,7 @@ A powerful and fully configurable Discord bot for managing tier test results, pl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tier-test-bot.git
+git clone https://github.com/RealmWLS/tier-test-bot.git
 cd tier-test-bot
 ```
 
